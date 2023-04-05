@@ -1,0 +1,13 @@
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: transparent;
+}
+
+.imgCarrito {
+    width: 5rem;
+    background-color: transparent;
+    mix-blend-mode: multiply;
+}
+
